@@ -1,0 +1,112 @@
+#mitablaventassimple {
+    /*font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;*/
+    font-family: "Arial", Arial, Arial, arial;
+    font-size: 10px;
+    /*border-collapse: collapse;*/
+    width: 100%;
+}
+
+#mitablaventassimple td, #mitablaventassimple th {
+    /*border: 1px solid black;*/
+    padding: 7px;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+#mitablaventassimple tr:nth-child(even){background-color: white;}
+
+#mitablaventassimple tr:hover {background-color: white;}
+
+#mitablaventassimple th {
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: lightgray;
+    color: black;
+    font-size: 10px;
+   
+    
+}
+#div1 {
+     overflow:scroll;
+     height:200px;
+     width:500px;
+}
+#div1 table {
+    width:500px;
+    background-color:white;
+}    
+
+
+#mitablaventas {
+    /*font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;*/
+    font-family: "Arial", Arial, Arial, arial;
+    font-size: 10px;
+    /*border-collapse: collapse;*/
+    width: 100%;
+}
+
+#mitablaventas td, #mitablaventas th {
+    /*border: 1px solid black;*/
+    padding: 7px;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+
+#mitablaventas tr:nth-child(even){background-color: white;}
+
+#mitablaventas tr:hover {background-color: white;}
+
+#mitablaventas th {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: gray;
+    color: white;
+    font-size: 11px;
+}
+
+
+
+/*
+estilo anterior
+
+#mitablaventassimple {
+
+    font-family: "Arial", Arial, Arial, arial;
+    font-size: 10px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#mitablaventassimple td, #mitablaventassimple th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    
+}
+
+#mitablaventassimple tr:nth-child(even){background-color: #f2f2f2;}
+
+#mitablaventassimple tr:hover {background-color: #ddd;}
+
+#mitablaventassimple th {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+    background-color: #3c8dbc;
+    color: white;
+    font-size: 11px;
+}
+#div1 {
+     overflow:scroll;
+     height:200px;
+     width:500px;
+}
+#div1 table {
+    width:500px;
+    background-color:lightgray;
+}    	
+*/
